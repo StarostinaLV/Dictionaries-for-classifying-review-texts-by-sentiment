@@ -1,0 +1,1 @@
+# Dictionaries-for-classifying-review-texts-by-sentiment
